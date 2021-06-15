@@ -1,2 +1,2 @@
 # python_examples
-Error in python
+Python examples
