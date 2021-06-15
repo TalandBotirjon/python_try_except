@@ -1,2 +1,2 @@
-# python_try_except
+# python_examples
 Error in python
